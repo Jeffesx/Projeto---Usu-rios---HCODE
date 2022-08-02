@@ -116,7 +116,6 @@ class User {
 
                 if (u._id == this.id) {
 
-                    //assign mescla objetos
                     Object.assign(u, this);
 
                 }
